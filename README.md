@@ -67,7 +67,7 @@
 
 <div align="center">
   <img width='50%' src="https://github-readme-stats.vercel.app/api?username=nijithanil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nijithanil&theme=dark&hide_border=false" />
+  <img width='50%' src="https://nirzak-streak-stats.vercel.app/?user=nijithanil&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijithanil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
