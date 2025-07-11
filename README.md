@@ -10,7 +10,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z6Y3o2dmw3aXJieXowb3l6bGxkMTgzOGl0dGY4cHVkbTM3bmFvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="450" />
 </div>
 
-
 <p align="center">
   <b>💻 Tech Stack:</b>
 </p>
@@ -52,24 +51,33 @@
 </p>
 <br>
 
-  <!-- Data & DevOps -->
+<!-- Data & DevOps -->
+<p>Data & DevOps</p>
+<p align="center">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+<br>
 
-  <!-- Collaboration & Version Control -->
+<!-- Collaboration & Version Control -->
+<p>Collaboration & Version Control</p>
+<p align="center">
   <img src="https://img.shields.io/badge/bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+<br>
 
-  <!-- Other Tools -->
+<!-- Other Tools -->
+<p>Other Tools</p>
+<p align="center">
   <img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
 <br>
 
 <p align="center">
