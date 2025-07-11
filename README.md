@@ -14,9 +14,10 @@
 <p align="center">
   <b>💻 Tech Stack:</b>
 </p>
+
+<!-- Languages & Frameworks -->
 <p>Languages & Frameworks</p>
 <p align="center">
-  
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -26,15 +27,21 @@
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-  <br>
+<br>
+
+<!-- Databases -->
 <p>Databases</p>
-  <p>
+<p align="center">
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+<br>
 
-  <!-- Design & Tools -->
+<!-- Design & Tools -->
+<p>Databases</p>
+<p align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
   <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
@@ -42,6 +49,7 @@
   <img src="https://img.shields.io/badge/dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
   <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+</p>
 
   <!-- Data & DevOps -->
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
