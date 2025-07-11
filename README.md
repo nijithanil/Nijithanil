@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
 </p>
+<br>
 
   <!-- Data & DevOps -->
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
